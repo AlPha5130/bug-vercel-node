@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.1.4",
+    "@vercel/node": "^2.14.2",
+    "typescript": "^5.0.4",
+    "vercel": "^29.3.0"
+  }
+}
